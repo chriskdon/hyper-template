@@ -1,3 +1,9 @@
+# **** IDEs/Editors
+
+.vscode
+
+# **** Erlang ****
+
 .eunit
 *.o
 *.beam
@@ -15,3 +21,7 @@ deps
 .rebar3
 _build/
 _checkouts/
+
+# **** Build Artifacts
+
+_build
