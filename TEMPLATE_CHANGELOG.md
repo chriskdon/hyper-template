@@ -12,6 +12,11 @@ DELETE THIS HEADER COMMENT
 *The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).*
 
+<!-- INSTRUCTIONS
+1. Copy the template below and fill out relevant sections
+2. Update the diff links at the bottom
+-->
+
 <!-- TEMPLATE (remove empty sections)
 
 ## [MAJOR.MINOR.PATCH] - YYYY-MM-DD
@@ -45,5 +50,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 <!-- Diffs -->
-[unreleased]: https://github.com/::github_username/::repo_name/compare/v0.0.0...HEAD
-[0.0.0]: https://github.com/::github_username/::repo_name/compare/v0.0.0
+[unreleased]: https://github.com/::github_username/::repo_name/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/::github_username/::repo_nam/releases/tag/v0.0.0...v0.0.1
+[0.0.0]: https://github.com/::github_username/::repo_nam/releases/tag/v0.0.0
