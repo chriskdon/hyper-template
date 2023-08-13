@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <!-- INSTRUCTIONS
 1. Copy the template below and fill out relevant sections
 2. Update the diff links at the bottom
+3. Update the version number in `README.md`
 -->
 
 <!-- TEMPLATE (remove empty sections)

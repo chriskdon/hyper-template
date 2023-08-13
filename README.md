@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 # Hypercube Template
 
-*Version:* `0.0.1`
+*Version:* `0.0.2`
 
 <!-- TABLE OF CONTENTS -->
 <details>
